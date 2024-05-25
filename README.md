@@ -6,11 +6,6 @@ I find the fields of Machine Learning, Natural Language Processing, and Generati
 
 I'm eager to acquire new skills and delve into diverse programming languages and tech stacks. The vast realm of technology captivates me, and my goal is to contribute meaningfully to this field, making a positive impact on the world! 🚀
 
-## 📫 How to reach me
-
-- LinkedIn: [linkedin.com/in/goutami-sooda](https://www.linkedin.com/in/goutami-sooda-bb1364259)
-- Email: [goutamisooda.cs22@rvce.edu.in](mailto:goutamisooda.cs22@rvce.edu.in)
-
 ## 🛠️ Skills and Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -50,6 +45,11 @@ The project involved designing and developing conditional cleanup functionality 
 
 ![Goutami's GitHub Stats](https://github-readme-stats.vercel.app/api?username=goutami-sooda&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goutami-sooda&layout=compact&theme=radical)
+
+## 📫 How to reach me
+
+- LinkedIn: [linkedin.com/in/goutami-sooda](https://www.linkedin.com/in/goutami-sooda-bb1364259)
+- Email: [goutamisooda.cs22@rvce.edu.in](mailto:goutamisooda.cs22@rvce.edu.in)
 
 ---
 
