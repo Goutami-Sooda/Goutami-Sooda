@@ -25,6 +25,7 @@ I'm eager to acquire new skills and delve into diverse programming languages and
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -32,7 +33,7 @@ I'm eager to acquire new skills and delve into diverse programming languages and
 
 ### [ITRL Project](https://github.com/Goutami-Sooda/ITRL-Project)
 Lead a team of eight members to build an interactive tool to inculcate coding skills in rural students through Kannada, a regional language of India. The central idea of the project was to allow users to convert programming logic in the form of Kannada algorithmic statements to Python code. I was actively involved in building a custom dataset, NLP model research and developing a web application using Django and React.
-[KaikeMate webapp](https://kalikemate.vercel.app/)
+[Link to KalikeMate](https://kalikemate.vercel.app/)
 
 ### [Loop Verse](https://github.com/Goutami-Sooda/Loop-Verse)
 An educational web application for beginners in programming offering a wide range of features using Augmented Reality, OpenAI Assistant APIs and creative instincts. Ranging from AI-powered Debugger tool, and Trivia Question Bot, it offers a sophisticated visualizer tool using PythonTutor to clearly visualize the loop iterations and code. In addition, the Match Tiles memory game and AR Quizventure Instagram filter turn learning into a fun and enjoyable activity.
