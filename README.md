@@ -2,7 +2,7 @@
 
 I'm an aspiring software developer currently in my 2nd year of Computer Science Engineering at RV College of Engineering, Bangalore. I'm passionate about tackling problems that push my mental and logical reasoning abilities. 
 
-I find the fields of Machine Learning, Natural Language Processing, and Generative AI and Cloud Computing quite intriguing. I'm a hobbyist Web Developer and often try to apply my skills through hands-on projects. I enjoy solving problems and building applications that make a difference.
+I find the fields of Machine Learning, Natural Language Processing, and Generative AI, Image Processing and Cloud Computing quite intriguing. I'm a hobbyist Web Developer and often try to apply my skills through hands-on projects. I enjoy solving problems and building applications that make a difference.
 
 I'm eager to acquire new skills and delve into diverse programming languages and tech stacks. The vast realm of technology captivates me, and my goal is to contribute meaningfully to this field, making a positive impact on the world! 🚀
 
@@ -32,6 +32,8 @@ I'm eager to acquire new skills and delve into diverse programming languages and
 
 ### [ITRL Project](https://github.com/Goutami-Sooda/ITRL-Project)
 Lead a team of eight members to build an interactive tool to inculcate coding skills in rural students through Kannada, a regional language of India. The central idea of the project was to allow users to convert programming logic in the form of Kannada algorithmic statements to Python code. I was actively involved in building a custom dataset, NLP model research and developing a web application using Django and React.
+[KaikeMate webapp](https://kalikemate.vercel.app/)
+
 ### [Loop Verse](https://github.com/Goutami-Sooda/Loop-Verse)
 An educational web application for beginners in programming offering a wide range of features using Augmented Reality, OpenAI Assistant APIs and creative instincts. Ranging from AI-powered Debugger tool, and Trivia Question Bot, it offers a sophisticated visualizer tool using PythonTutor to clearly visualize the loop iterations and code. In addition, the Match Tiles memory game and AR Quizventure Instagram filter turn learning into a fun and enjoyable activity.
 [Link to the website](https://loopverse.pythonanywhere.com)
