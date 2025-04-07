@@ -1,6 +1,6 @@
 # Hi there, I'm Goutami Sooda!👋
 
-I'm an aspiring software developer currently in my 2nd year of Computer Science Engineering at RV College of Engineering, Bangalore. I'm passionate about tackling problems that push my mental and logical reasoning abilities. 
+I'm an aspiring software developer currently in my 3rd year of Computer Science Engineering at RV College of Engineering, Bangalore. I'm passionate about tackling problems that push my mental and logical reasoning abilities. 
 
 I find the fields of Machine Learning, Natural Language Processing, and Generative AI, Image Processing and Cloud Computing quite intriguing. I'm a hobbyist Web Developer and often try to apply my skills through hands-on projects. I enjoy solving problems and building applications that make a difference.
 
